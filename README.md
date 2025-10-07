@@ -12,7 +12,7 @@
   
  🌱 I’m currently learning *React, Nodejs, Agent n8n*
 
-💬 Ask me about **vue.js, Laravel, MySql... or anything [here](https://github.com/w15147m/w15147m/issues)**
+💬 Ask me about **Pyhton, Machine Learning, Deep Learning, MySql... or anything [here](www.linkedin.com/in/zeeshanhaidernagri/" target="_blank)**
 
 
  </div>
