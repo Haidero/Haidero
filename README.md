@@ -49,11 +49,7 @@
     <!-- Left Side: Interests -->
     <td valign="top" width="50%">
     <br/>
-     <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=Haidero&count_private=true&theme=react&border_radius=10" alt="Haidero" />
-    </td>
-    <td valign="top" width="50%">
-      <h3 align="center">⚡ Professional Skills ⚡</h3>
-      <div align="left">
+
         <img src="https://skillicons.dev/icons?i=python,django,react,mysql,git" />
       </div>
       <br/>
