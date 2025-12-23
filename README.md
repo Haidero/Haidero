@@ -46,14 +46,12 @@
 
 <table align="center">
   <tr>
-    <!-- Left Side: Interests -->
-    <td valign="top" width="50%">
-    <br/>
-
-        <img src="https://skillicons.dev/icons?i=python,django,react,mysql,git" />
-      </div>
+    <td valign="top" width="50%" align="center">
+      <h3>💻 Tech Stack & Interests</h3>
       <br/>
-      <ul>
+      <img src="https://skillicons.dev/icons?i=python,django,react,mysql,git" />
+      <br/><br/>
+      <ul align="left">
         <li>✅ Python</li>
         <li>✅ Django</li>
         <li>✅ React</li>
@@ -63,5 +61,6 @@
     </td>
   </tr>
 </table>
+
 
 <hr/>
